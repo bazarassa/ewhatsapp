@@ -1,0 +1,11 @@
+{
+  "name": "ewhatsapp",
+  "version": "1.0.0",
+  "description": "Standalone frame for WhatsApp",
+  "main": "index.js",
+  "author": "Vladislav Basargin <bazarassa@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  }
+}
