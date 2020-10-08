@@ -6,6 +6,6 @@
   "author": "Vladislav Basargin <bazarassa@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^9.0.5"
+    "electron": "^9.3.1"
   }
 }
